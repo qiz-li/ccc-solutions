@@ -2,11 +2,11 @@
 # Find this problem at:
 # https://dmoj.ca/problem/ccc00j1
 
-problem_input = [int(i) for i in input().split()]
+start, days = (int(i) for i in input().split())
 # Start by padding until the day of the week on which the month begins
-calender = ('   ,' * (problem_input[0]-1)).split(',')[:-1]
+calender = ('   ,' * (start-1)).split(',')[:-1]
 # Add the approviate whitespace into each day
-for i in range(1, problem_input[1]+1):
+for i in range(1, days+1):
     calender.append(f'{str(i): >3}')
 # Add the heading and split the calendar into weeks
 full_calender = ([["Sun", "Mon", "Tue", "Wed", "Thr", "Fri", "Sat"]] +
