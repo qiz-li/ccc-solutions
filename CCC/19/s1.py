@@ -9,7 +9,7 @@ for action in input():
     if action == "H":
         grid.append(grid.pop(0))
     # Move the first char to the end
-    if action == "V":
+    elif action == "V":
         grid[1].append(grid[1].pop(0))
         grid[0].append(grid[0].pop(0))
 for i in grid:
