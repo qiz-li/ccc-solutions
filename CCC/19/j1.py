@@ -3,13 +3,12 @@
 # https://dmoj.ca/problem/ccc19j1
 
 # Sum of points for both teams
-a_points = sum([(3-time)*int(input()) for time in range(3)])
-b_points = sum([(3-time)*int(input()) for time in range(3)])
+a, b = (sum((3-time)*int(input()) for time in range(3)) for i in range(2))
 
 # Determine the game result
-if a_points > b_points:
+if a > b:
     print("A")
-elif b_points > a_points:
+elif b > a:
     print("B")
 else:
     print("T")
