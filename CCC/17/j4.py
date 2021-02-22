@@ -1,8 +1,8 @@
-'''
+"""
 CCC '17 J4 - Favourite Times
 Find this problem at:
 https://dmoj.ca/problem/ccc17j4
-'''
+"""
 
 duration = int(input())
 days = count = 0

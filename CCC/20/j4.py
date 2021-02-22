@@ -1,8 +1,8 @@
-'''
+"""
 CCC '20 J4 - Cyclic Shifts
 Find this problem at:
 https://dmoj.ca/problem/ccc20j4
-'''
+"""
 
 
 def find_cycle_shifts(s):

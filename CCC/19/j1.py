@@ -1,6 +1,8 @@
-# CCC '19 J1 - Winning Score
-# Find this problem at:
-# https://dmoj.ca/problem/ccc19j1
+"""
+CCC '19 J1 - Winning Score
+Find this problem at:
+https://dmoj.ca/problem/ccc19j1
+"""
 
 # Sum of points for both teams
 a, b = (sum((3-time)*int(input()) for time in range(3)) for i in range(2))

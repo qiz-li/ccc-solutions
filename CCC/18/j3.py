@@ -1,6 +1,8 @@
-# CCC '18 J3 - Are we there yet?
-# Find this problem at:
-# https://dmoj.ca/problem/ccc18j3
+"""
+CCC '18 J3 - Are we there yet?
+Find this problem at:
+https://dmoj.ca/problem/ccc18j3
+"""
 
 distances = [int(i) for i in input().split()]
 for i in range(5):

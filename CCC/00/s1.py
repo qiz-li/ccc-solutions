@@ -1,6 +1,8 @@
-# CCC '00 S1 - Slot Machines
-# Find this problem at:
-# https://dmoj.ca/problem/ccc00s1
+"""
+CCC '00 S1 - Slot Machines
+Find this problem at:
+https://dmoj.ca/problem/ccc00s1
+"""
 
 quarters = int(input())
 machines = [int(i) for i in [input(), input(), input()]]

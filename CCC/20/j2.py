@@ -1,8 +1,8 @@
-'''
+"""
 CCC '20 J2 - Epidemiology
 Find this problem at:
 https://dmoj.ca/problem/ccc20j2
-'''
+"""
 
 limit = int(input())
 new = people = int(input())

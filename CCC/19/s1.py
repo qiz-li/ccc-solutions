@@ -1,6 +1,8 @@
-# CCC '19 S1 - Flipper
-# Find this problem at:
-# https://dmoj.ca/problem/ccc19s1
+"""
+CCC '19 S1 - Flipper
+Find this problem at:
+https://dmoj.ca/problem/ccc19s1
+"""
 
 grid = [[1, 2], [3, 4]]
 

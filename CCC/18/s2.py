@@ -1,6 +1,8 @@
-# CCC '18 S2 - Sunflowers
-# Find this problem at:
-# https://dmoj.ca/problem/ccc18s2
+"""
+CCC '18 S2 - Sunflowers
+Find this problem at:
+https://dmoj.ca/problem/ccc18s2
+"""
 
 
 def rotate_90(grid):

@@ -1,6 +1,8 @@
-# CCC '18 J2 - Occupy parking
-# Find this problem at:
-# https://dmoj.ca/problem/ccc18j2
+"""
+CCC '18 J2 - Occupy parking
+Find this problem at:
+https://dmoj.ca/problem/ccc18j2
+"""
 
 input()
 count = 0

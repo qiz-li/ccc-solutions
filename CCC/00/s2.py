@@ -1,6 +1,8 @@
-# CCC '00 S2 - Babbling Brooks
-# Find this problem at:
-# https://dmoj.ca/problem/ccc00s2
+"""
+CCC '00 S2 - Babbling Brooks
+Find this problem at:
+https://dmoj.ca/problem/ccc00s2
+"""
 
 # Initial number and flow of streams on the top of the mountain
 init_streams = int(input())

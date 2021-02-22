@@ -1,6 +1,8 @@
-# CCC '00 J2 - 9966
-# Find this problem at:
-# https://dmoj.ca/problem/ccc00j2
+"""
+CCC '00 J2 - 9966
+Find this problem at:
+https://dmoj.ca/problem/ccc00j2
+"""
 
 valid = 0
 # Loop through the given interval

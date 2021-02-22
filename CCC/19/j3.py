@@ -1,6 +1,8 @@
-# CCC '19 J3 - Cold Compress
-# Find this problem at:
-# https://dmoj.ca/problem/ccc19j3
+"""
+CCC '19 J3 - Cold Compress
+Find this problem at:
+https://dmoj.ca/problem/ccc19j3
+"""
 
 # !NOTE! The following passed on DMOJ but failed the second test case
 # on the official CCC grader. I do not know why.

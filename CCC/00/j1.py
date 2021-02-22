@@ -1,6 +1,8 @@
-# CCC '00 J1 - Calendar
-# Find this problem at:
-# https://dmoj.ca/problem/ccc00j1
+"""
+CCC '00 J1 - Calendar
+Find this problem at:
+https://dmoj.ca/problem/ccc00j1
+"""
 
 start, days = (int(i) for i in input().split())
 # Start by padding until the day of the week on which the month begins

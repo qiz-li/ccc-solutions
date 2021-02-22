@@ -1,8 +1,8 @@
-'''
+"""
 CCC '17 J3 - Exactly Electrical
 Find this problem at:
 https://dmoj.ca/problem/ccc17j3
-'''
+"""
 
 start_x, start_y = (int(i) for i in input().split())
 end_x, end_y = (int(i) for i in input().split())
