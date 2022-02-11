@@ -6,6 +6,7 @@ https://dmoj.ca/problem/ccc12s4
 
 # NOTE: This solution is intended only for the J5 where n < 5.
 # Code runs but becomes quite slow after n > 5. It will TLE.
+# See j5.cpp for S4 solution (n < 8).
 
 import sys
 
