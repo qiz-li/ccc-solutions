@@ -1,5 +1,15 @@
-# CCC
+# CCC Solutions
 
-The [Canadian Computing Competition](https://cemc.math.uwaterloo.ca/contests/computing.html) is an annual contest held by the University of Waterloo.
+> [Canadian Computing Competition](https://cemc.math.uwaterloo.ca/contests/computing.html)
 
-During the 2021 CCC, my final score was `56/75`.
+**My results:**
+
+```yaml
+2021:
+  level: junior
+  score: 56/75
+
+2022:
+  level: junior
+  score: 68/75
+```
