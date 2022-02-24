@@ -1,6 +1,7 @@
 """
 CCC '22 J5 - Square Pool
-(Cannot) Find this problem (yet).
+Find this problem at:
+https://dmoj.ca/problem/ccc22j5
 """
 
 # Was so close to the solution on the contest! :(
