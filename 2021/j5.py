@@ -1,5 +1,5 @@
 """
-CCC '20 J5/S2 - Modern Art
+CCC '21 J5/S2 - Modern Art
 Find this problem at:
 https://dmoj.ca/problem/ccc21s2
 """
