@@ -1,3 +1,9 @@
+"""
+CCC '02 J5/S3 Blindfold
+Find this problem at:
+https://dmoj.ca/problem/ccc02s3
+"""
+
 import sys
 input = sys.stdin.readline
 
